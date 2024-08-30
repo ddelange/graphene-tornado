@@ -53,7 +53,7 @@ setup(
         'graphene>=2.1,<3',
         'Jinja2>=2.10.1',
         'tornado>=5.1.0',
-        'werkzeug==0.12.2'
+        'werkzeug',
     ],
     setup_requires=[
         'pytest',
